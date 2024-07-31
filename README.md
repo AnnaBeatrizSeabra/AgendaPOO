@@ -1,2 +1,2 @@
 # AgendaPOO
- Implementação de Agenda utilizando POO para trabalho de LP
+ Implementação de Agenda utilizando POO para trabalho de Paradigmas de Programação
